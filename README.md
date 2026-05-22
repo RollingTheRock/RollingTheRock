@@ -8,9 +8,7 @@
 
 A sophomore CS student at [ZUEL](https://www.zuel.edu.cn/). I build systems in **Rust**, **Python**, **C**, **Go**, and **TypeScript** — previously a full-stack engineer at [Simen](https://github.com/simen-ai), where I learned that going deep into the machinery beats going wide in the age of AI.
 
-Currently reimplementing vector databases, HTTP browsers, and shells — not because the world needs another one, but because understanding how things really work is the only way to build things that last.
-
-Building a **Vector-Native KV Store + Protocol Runtime** as the foundation for a concurrent work-tree agent orchestration TUI. Architecture: **LangGraph**, **distributed systems**. Research sits at the intersection of **data ownership, compute sharing, and distributed systems**.
+Currently reimplementing the foundational bricks of modern engineering — vector databases, HTTP browsers, shells, and more — not because the world needs another one, but because understanding how things really work is the only way to build things that last.
 
 <br clear="left">
 
