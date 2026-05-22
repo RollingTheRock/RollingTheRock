@@ -50,8 +50,6 @@ I'm actively looking for collaborations on agent systems and open to internships
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Data & Messaging**
 
@@ -63,7 +61,6 @@ I'm actively looking for collaborations on agent systems and open to internships
 **Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 
 **Frontend**
 
@@ -71,5 +68,4 @@ I'm actively looking for collaborations on agent systems and open to internships
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
-> One must imagine Sisyphus happy.
-> — Albert Camus
+<p align="center"><em>One must imagine Sisyphus happy.</em><br>— Albert Camus</p>
