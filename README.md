@@ -49,6 +49,7 @@ I'm actively looking for collaborations on agent systems and open to internships
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 **Agent & LLM**
 
@@ -60,16 +61,23 @@ I'm actively looking for collaborations on agent systems and open to internships
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
-**Infra**
+**Storage & Infra**
 
+![etcd](https://img.shields.io/badge/etcd-419EDA?style=flat-square&logo=etcd&logoColor=white)
+![RocksDB](https://img.shields.io/badge/RocksDB-2C2255?style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-F7A41D?style=flat-square&logo=opentelemetry&logoColor=black)
 
-**Frontend**
+**Frontend & Desktop**
 
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 <p align="center"><em>One must imagine Sisyphus happy.</em><br>— Albert Camus</p>
