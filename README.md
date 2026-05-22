@@ -38,8 +38,13 @@ I'm actively looking for collaborations on agent systems and open to internships
 
 🛠️ **Tech Stack**
 
-🦀 Rust · 🐍 Python · 🔧 C · 🐹 Go · 📘 TypeScript  
-🔗 LangGraph · 🌐 Distributed Systems
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Architecture:** LangGraph · Distributed Systems
 
 > One must imagine Sisyphus happy.
 > — Albert Camus
