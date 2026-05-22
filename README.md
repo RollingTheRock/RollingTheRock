@@ -2,17 +2,21 @@
 
 ### Code Is the Answer. But I'm More Interested in the Question.
 
+<p align="center">·&nbsp;&nbsp;·&nbsp;&nbsp;·</p>
+
 <img align="left" src="https://raw.githubusercontent.com/RollingTheRock/RollingTheRock/main/assets/banner.png" width="420">
 
 **Hi, I'm RollingTheRock.**
 
-A sophomore CS student at [ZUEL](https://www.zuel.edu.cn/). I build systems in **Rust**, **Python**, **C**, **Go**, and **TypeScript** — previously a full-stack engineer at [Simen](https://github.com/simen-ai), where I learned that going deep into the machinery beats going wide in the age of AI.
+A sophomore CS student at [ZUEL](https://www.zuel.edu.cn/) 📍 I build systems in **Rust**, **Python**, **C**, **Go**, and **TypeScript** — previously a full-stack engineer at [Simen](https://github.com/simen-ai) 💼 where I learned that going deep into the machinery beats going wide in the age of AI.
 
-Currently reimplementing the foundational bricks of modern engineering — vector databases, HTTP browsers, shells, and more — not because the world needs another one, but because understanding how things really work is the only way to build things that last.
+Currently reimplementing the foundational bricks of modern engineering 🗄️ 🌐 🐚 — vector databases, HTTP browsers, shells, and more — not because the world needs another one, but because understanding how things really work is the only way to build things that last.
 
 <br clear="left">
 
 ---
+
+<p align="center">·&nbsp;&nbsp;·&nbsp;&nbsp;·</p>
 
 🔭 **Currently**
 
